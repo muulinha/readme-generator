@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/muulinha/readme-generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4",
+    "js": "^0.1.0",
+    "path": "^0.12.7"
   }
 }
