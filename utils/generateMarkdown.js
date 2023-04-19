@@ -1,5 +1,3 @@
-const generateMarkdown = require('./utils/generateMarkdown');
-
 // TODO: Create a function that returns a license badge based on which license is passed in
 function renderLicenseBadge(license) {
   if (license === 'None') {
